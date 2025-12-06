@@ -1,0 +1,1001 @@
+TransactionID,Country,Product,Quantity,Price,CustomerID
+1,UK,HDMI Cable,2,10,175
+2,France,Keyboard,2,50,136
+3,USA,Laptop,3,1200,119
+4,Canada,HDMI Cable,4,10,105
+5,Canada,Keyboard,5,50,137
+6,USA,Keyboard,4,50,137
+7,USA,Monitor,2,300,188
+8,Germany,Mouse,3,25,106
+9,France,HDMI Cable,2,10,191
+10,USA,Keyboard,3,50,130
+11,USA,Keyboard,1,50,167
+12,Canada,Keyboard,3,50,143
+13,Canada,Monitor,2,300,170
+14,Canada,HDMI Cable,1,10,132
+15,Canada,Monitor,4,300,107
+16,UK,Keyboard,2,50,104
+17,UK,Laptop,2,1200,151
+18,India,Keyboard,2,50,119
+19,USA,Keyboard,5,50,135
+20,France,Laptop,4,1200,149
+21,France,Laptop,4,1200,109
+22,Canada,Keyboard,4,50,103
+23,Germany,Keyboard,5,50,184
+24,Canada,HDMI Cable,2,10,104
+25,UK,Laptop,2,1200,154
+26,USA,Mouse,1,25,119
+27,UK,HDMI Cable,3,10,151
+28,Canada,Monitor,4,300,129
+29,USA,Mouse,5,25,197
+30,France,Monitor,2,300,112
+31,USA,Monitor,5,300,158
+32,France,Monitor,2,300,163
+33,UK,Monitor,5,300,139
+34,UK,Laptop,2,1200,197
+35,France,Mouse,3,25,129
+36,USA,Monitor,1,300,197
+37,France,Laptop,2,1200,142
+38,France,Monitor,1,300,181
+39,India,HDMI Cable,1,10,120
+40,Germany,Monitor,3,300,131
+41,India,Mouse,3,25,117
+42,India,Keyboard,2,50,159
+43,Germany,Mouse,3,25,185
+44,France,Mouse,4,25,101
+45,India,Keyboard,5,50,184
+46,Germany,Keyboard,1,50,166
+47,Germany,Keyboard,3,50,182
+48,USA,HDMI Cable,2,10,100
+49,France,Keyboard,2,50,177
+50,India,Monitor,3,300,138
+51,India,Monitor,4,300,181
+52,France,Monitor,2,300,116
+53,France,Keyboard,2,50,126
+54,France,HDMI Cable,3,10,147
+55,Canada,Monitor,3,300,133
+56,UK,HDMI Cable,4,10,199
+57,USA,Mouse,5,25,168
+58,USA,Monitor,2,300,150
+59,Germany,Laptop,3,1200,124
+60,Germany,Mouse,2,25,167
+61,Canada,Keyboard,5,50,160
+62,France,Mouse,2,25,198
+63,France,Laptop,5,1200,190
+64,India,Mouse,5,25,160
+65,Canada,Mouse,1,25,117
+66,Canada,Keyboard,3,50,105
+67,USA,Keyboard,3,50,142
+68,UK,Keyboard,3,50,183
+69,Canada,Keyboard,2,50,103
+70,UK,HDMI Cable,3,10,157
+71,Germany,Keyboard,2,50,143
+72,UK,Mouse,2,25,147
+73,UK,Mouse,2,25,108
+74,France,Laptop,5,1200,146
+75,USA,HDMI Cable,2,10,151
+76,India,Keyboard,3,50,117
+77,France,HDMI Cable,5,10,128
+78,Germany,Keyboard,1,50,176
+79,Germany,HDMI Cable,2,10,145
+80,Canada,Mouse,5,25,168
+81,UK,Monitor,2,300,118
+82,France,Mouse,1,25,138
+83,USA,Mouse,1,25,118
+84,UK,Monitor,2,300,185
+85,France,Mouse,2,25,110
+86,India,Laptop,4,1200,198
+87,India,Mouse,1,25,150
+88,UK,Laptop,4,1200,151
+89,Canada,Mouse,4,25,177
+90,UK,Monitor,1,300,188
+91,France,Mouse,5,25,185
+92,USA,HDMI Cable,1,10,193
+93,UK,Mouse,1,25,121
+94,India,Monitor,5,300,113
+95,France,Monitor,4,300,127
+96,Canada,Laptop,2,1200,132
+97,Canada,Laptop,2,1200,155
+98,Germany,Monitor,2,300,138
+99,Canada,Monitor,3,300,158
+100,UK,HDMI Cable,3,10,182
+101,Canada,HDMI Cable,5,10,191
+102,Germany,HDMI Cable,3,10,102
+103,Canada,Keyboard,3,50,117
+104,France,Laptop,2,1200,159
+105,USA,Mouse,5,25,178
+106,USA,Mouse,1,25,171
+107,India,Mouse,1,25,193
+108,Canada,Laptop,1,1200,174
+109,Canada,Laptop,5,1200,138
+110,UK,HDMI Cable,4,10,128
+111,Canada,HDMI Cable,2,10,106
+112,USA,Mouse,1,25,173
+113,France,Laptop,3,1200,179
+114,France,Monitor,3,300,195
+115,UK,Monitor,2,300,157
+116,France,Monitor,4,300,183
+117,India,Monitor,1,300,100
+118,India,Mouse,4,25,182
+119,India,Mouse,4,25,138
+120,India,Mouse,1,25,105
+121,France,Mouse,5,25,155
+122,Canada,Mouse,4,25,155
+123,UK,Keyboard,3,50,139
+124,Canada,Mouse,2,25,158
+125,India,Monitor,3,300,104
+126,Canada,Monitor,4,300,158
+127,UK,Laptop,2,1200,171
+128,Canada,Mouse,1,25,111
+129,USA,Keyboard,1,50,160
+130,France,HDMI Cable,1,10,132
+131,India,Monitor,5,300,122
+132,Canada,Mouse,1,25,101
+133,Canada,Keyboard,2,50,148
+134,UK,Monitor,4,300,126
+135,India,HDMI Cable,3,10,187
+136,India,Mouse,1,25,195
+137,India,Keyboard,1,50,120
+138,France,Keyboard,4,50,180
+139,Canada,Laptop,3,1200,135
+140,Germany,Mouse,3,25,174
+141,UK,Laptop,2,1200,176
+142,Canada,Mouse,3,25,181
+143,USA,Mouse,2,25,126
+144,USA,Keyboard,4,50,138
+145,France,Keyboard,3,50,172
+146,Germany,HDMI Cable,1,10,189
+147,Canada,Mouse,2,25,200
+148,India,HDMI Cable,4,10,134
+149,India,Monitor,5,300,166
+150,USA,Mouse,3,25,184
+151,France,Monitor,3,300,120
+152,USA,Monitor,1,300,164
+153,France,Keyboard,3,50,168
+154,Canada,HDMI Cable,1,10,148
+155,Canada,HDMI Cable,2,10,177
+156,Canada,Mouse,2,25,159
+157,USA,Mouse,1,25,198
+158,UK,Laptop,1,1200,102
+159,Germany,Keyboard,1,50,142
+160,UK,Laptop,3,1200,110
+161,USA,Keyboard,1,50,123
+162,India,Monitor,1,300,148
+163,France,Monitor,3,300,187
+164,USA,HDMI Cable,4,10,170
+165,India,Keyboard,2,50,181
+166,France,Laptop,1,1200,162
+167,Germany,HDMI Cable,4,10,128
+168,India,HDMI Cable,2,10,191
+169,Germany,Mouse,4,25,160
+170,Canada,Monitor,2,300,182
+171,Germany,Monitor,5,300,192
+172,Canada,Laptop,2,1200,123
+173,Germany,Monitor,3,300,117
+174,USA,Monitor,1,300,172
+175,Germany,HDMI Cable,5,10,115
+176,UK,Laptop,2,1200,169
+177,Canada,HDMI Cable,2,10,163
+178,UK,Monitor,4,300,121
+179,France,Laptop,1,1200,167
+180,France,Monitor,4,300,139
+181,USA,Monitor,2,300,199
+182,UK,HDMI Cable,5,10,182
+183,UK,Laptop,5,1200,182
+184,Canada,Mouse,1,25,120
+185,Germany,HDMI Cable,4,10,133
+186,Canada,Laptop,1,1200,147
+187,India,Keyboard,1,50,165
+188,UK,HDMI Cable,3,10,156
+189,France,Mouse,1,25,173
+190,France,HDMI Cable,1,10,138
+191,UK,Monitor,2,300,114
+192,Canada,Laptop,1,1200,162
+193,USA,HDMI Cable,2,10,157
+194,UK,Keyboard,1,50,136
+195,USA,Keyboard,3,50,200
+196,Germany,Keyboard,4,50,185
+197,Canada,Monitor,1,300,124
+198,France,Monitor,3,300,148
+199,Canada,Mouse,4,25,149
+200,India,Monitor,3,300,162
+201,France,Mouse,3,25,180
+202,Germany,HDMI Cable,2,10,116
+203,UK,Monitor,4,300,141
+204,USA,Mouse,4,25,125
+205,Germany,Mouse,3,25,191
+206,Germany,Laptop,2,1200,107
+207,India,Laptop,4,1200,149
+208,Germany,HDMI Cable,1,10,100
+209,UK,Mouse,5,25,140
+210,Germany,Keyboard,4,50,136
+211,Canada,HDMI Cable,5,10,168
+212,Germany,Monitor,5,300,110
+213,India,Keyboard,4,50,139
+214,France,Mouse,4,25,160
+215,France,Mouse,5,25,157
+216,Canada,Mouse,5,25,190
+217,Canada,HDMI Cable,3,10,171
+218,USA,HDMI Cable,3,10,125
+219,India,Mouse,4,25,168
+220,France,HDMI Cable,4,10,111
+221,USA,Monitor,3,300,143
+222,USA,Laptop,5,1200,122
+223,Canada,Laptop,3,1200,188
+224,Germany,HDMI Cable,5,10,142
+225,Canada,Laptop,5,1200,125
+226,France,Keyboard,2,50,147
+227,Canada,Monitor,4,300,198
+228,France,Mouse,1,25,155
+229,Canada,Laptop,1,1200,120
+230,Germany,HDMI Cable,2,10,125
+231,USA,Laptop,5,1200,157
+232,UK,Keyboard,2,50,179
+233,France,Mouse,2,25,180
+234,Germany,Mouse,5,25,111
+235,Germany,Monitor,4,300,179
+236,UK,Monitor,4,300,172
+237,France,HDMI Cable,3,10,168
+238,Canada,Keyboard,4,50,178
+239,Germany,Mouse,4,25,151
+240,Canada,Monitor,2,300,186
+241,Germany,Monitor,5,300,108
+242,France,Mouse,3,25,163
+243,Canada,Laptop,5,1200,138
+244,Canada,Keyboard,1,50,144
+245,UK,Mouse,5,25,135
+246,Canada,Monitor,3,300,168
+247,Germany,Mouse,1,25,155
+248,France,HDMI Cable,1,10,192
+249,Germany,Mouse,3,25,157
+250,USA,Monitor,2,300,167
+251,India,HDMI Cable,5,10,124
+252,USA,Keyboard,3,50,156
+253,Germany,Keyboard,4,50,192
+254,France,Monitor,5,300,108
+255,India,Mouse,3,25,186
+256,France,Keyboard,4,50,108
+257,USA,Laptop,2,1200,179
+258,France,Keyboard,4,50,154
+259,France,Mouse,1,25,186
+260,France,HDMI Cable,3,10,182
+261,Canada,Keyboard,2,50,200
+262,Canada,Laptop,5,1200,159
+263,Germany,Mouse,2,25,162
+264,France,HDMI Cable,1,10,102
+265,Germany,HDMI Cable,3,10,114
+266,Germany,Mouse,1,25,189
+267,France,Keyboard,3,50,137
+268,USA,Monitor,1,300,117
+269,USA,Keyboard,2,50,100
+270,Germany,Mouse,5,25,157
+271,USA,Mouse,4,25,164
+272,India,Mouse,3,25,186
+273,India,Monitor,5,300,199
+274,Canada,Keyboard,1,50,182
+275,UK,Monitor,2,300,186
+276,UK,Keyboard,2,50,185
+277,USA,Laptop,3,1200,121
+278,USA,Mouse,3,25,152
+279,France,Mouse,4,25,150
+280,USA,Monitor,3,300,149
+281,USA,Monitor,2,300,160
+282,Germany,Mouse,3,25,200
+283,France,HDMI Cable,2,10,119
+284,France,Monitor,3,300,174
+285,Canada,HDMI Cable,3,10,136
+286,USA,Laptop,4,1200,113
+287,France,HDMI Cable,1,10,130
+288,USA,Laptop,1,1200,124
+289,Germany,Monitor,1,300,140
+290,USA,Keyboard,1,50,187
+291,USA,Keyboard,2,50,129
+292,France,HDMI Cable,2,10,181
+293,Germany,Keyboard,4,50,194
+294,UK,Monitor,5,300,171
+295,Canada,Laptop,5,1200,177
+296,India,Keyboard,5,50,161
+297,UK,Laptop,5,1200,145
+298,France,Monitor,1,300,144
+299,Canada,Mouse,3,25,128
+300,Germany,HDMI Cable,4,10,180
+301,India,Mouse,4,25,200
+302,Canada,Mouse,1,25,186
+303,France,HDMI Cable,2,10,144
+304,Canada,HDMI Cable,2,10,156
+305,France,Laptop,5,1200,142
+306,France,Laptop,5,1200,121
+307,USA,Monitor,1,300,111
+308,Germany,Laptop,5,1200,153
+309,Canada,Laptop,4,1200,198
+310,France,Keyboard,2,50,152
+311,Germany,Keyboard,4,50,153
+312,UK,Monitor,3,300,185
+313,France,Mouse,2,25,172
+314,India,Laptop,4,1200,155
+315,India,Keyboard,3,50,167
+316,France,Mouse,4,25,148
+317,UK,HDMI Cable,5,10,155
+318,India,Keyboard,4,50,194
+319,France,HDMI Cable,1,10,162
+320,France,Keyboard,3,50,189
+321,Germany,Laptop,5,1200,116
+322,Canada,Monitor,3,300,160
+323,France,Laptop,3,1200,183
+324,UK,Laptop,5,1200,151
+325,USA,Keyboard,4,50,161
+326,India,Laptop,3,1200,152
+327,France,Monitor,5,300,111
+328,UK,Keyboard,5,50,130
+329,UK,HDMI Cable,5,10,199
+330,Germany,Keyboard,3,50,168
+331,India,Monitor,1,300,182
+332,UK,Keyboard,5,50,128
+333,Germany,Monitor,2,300,170
+334,UK,Monitor,1,300,102
+335,UK,Keyboard,5,50,119
+336,USA,Mouse,3,25,133
+337,UK,Mouse,3,25,159
+338,UK,HDMI Cable,5,10,121
+339,USA,Laptop,1,1200,177
+340,USA,HDMI Cable,1,10,186
+341,India,Mouse,4,25,139
+342,USA,Keyboard,3,50,145
+343,USA,Monitor,5,300,189
+344,Germany,Monitor,2,300,151
+345,UK,Keyboard,4,50,181
+346,UK,Laptop,4,1200,152
+347,UK,Mouse,5,25,155
+348,USA,Monitor,3,300,157
+349,France,Mouse,2,25,162
+350,Canada,HDMI Cable,1,10,111
+351,UK,Monitor,3,300,122
+352,USA,Monitor,5,300,123
+353,UK,Monitor,1,300,108
+354,India,Mouse,4,25,176
+355,Canada,Keyboard,3,50,174
+356,USA,Keyboard,3,50,128
+357,USA,Laptop,1,1200,118
+358,Canada,Monitor,3,300,198
+359,India,Mouse,4,25,182
+360,India,HDMI Cable,5,10,185
+361,Germany,Mouse,5,25,188
+362,France,Monitor,2,300,145
+363,Germany,Laptop,4,1200,103
+364,UK,Mouse,1,25,156
+365,Germany,Monitor,2,300,173
+366,France,Monitor,3,300,129
+367,Germany,Monitor,5,300,147
+368,France,HDMI Cable,1,10,199
+369,Germany,Mouse,4,25,200
+370,France,Laptop,2,1200,116
+371,France,Monitor,5,300,151
+372,USA,Laptop,1,1200,128
+373,Germany,Keyboard,4,50,173
+374,Canada,Keyboard,3,50,189
+375,Germany,Keyboard,5,50,176
+376,France,Mouse,2,25,124
+377,Canada,Mouse,3,25,192
+378,France,HDMI Cable,3,10,198
+379,Canada,HDMI Cable,2,10,111
+380,USA,Laptop,1,1200,125
+381,India,Keyboard,1,50,185
+382,USA,Monitor,1,300,177
+383,India,HDMI Cable,2,10,177
+384,USA,HDMI Cable,3,10,197
+385,India,HDMI Cable,3,10,130
+386,Canada,Monitor,2,300,144
+387,India,Mouse,5,25,199
+388,India,Mouse,1,25,103
+389,USA,HDMI Cable,2,10,123
+390,UK,HDMI Cable,4,10,144
+391,India,Laptop,3,1200,184
+392,UK,Monitor,5,300,178
+393,India,Monitor,2,300,160
+394,France,Laptop,2,1200,171
+395,France,Monitor,5,300,113
+396,Canada,Keyboard,1,50,140
+397,UK,Laptop,5,1200,139
+398,Germany,Mouse,5,25,126
+399,India,Monitor,4,300,141
+400,Germany,Mouse,1,25,155
+401,Canada,Keyboard,1,50,174
+402,India,Laptop,5,1200,113
+403,UK,Keyboard,1,50,159
+404,Canada,Keyboard,4,50,100
+405,Canada,Laptop,2,1200,111
+406,Germany,HDMI Cable,4,10,134
+407,UK,Keyboard,2,50,186
+408,India,Keyboard,1,50,142
+409,USA,Monitor,3,300,151
+410,India,Mouse,4,25,101
+411,USA,Laptop,5,1200,112
+412,UK,Monitor,5,300,196
+413,USA,Monitor,1,300,193
+414,France,Laptop,1,1200,135
+415,UK,Mouse,5,25,139
+416,Germany,Keyboard,3,50,127
+417,Canada,Mouse,2,25,192
+418,France,Keyboard,4,50,113
+419,UK,Laptop,4,1200,111
+420,Germany,HDMI Cable,3,10,159
+421,France,Laptop,5,1200,189
+422,Canada,Laptop,5,1200,128
+423,India,HDMI Cable,5,10,146
+424,India,Mouse,1,25,188
+425,UK,Laptop,3,1200,124
+426,India,Keyboard,2,50,123
+427,Canada,Laptop,1,1200,192
+428,India,Keyboard,1,50,138
+429,Canada,Monitor,4,300,134
+430,Canada,Mouse,4,25,136
+431,Germany,Mouse,1,25,107
+432,India,Laptop,1,1200,111
+433,USA,Mouse,5,25,127
+434,France,Keyboard,2,50,133
+435,Germany,Laptop,5,1200,107
+436,Canada,Monitor,4,300,114
+437,France,Laptop,2,1200,169
+438,Canada,Monitor,2,300,138
+439,UK,HDMI Cable,2,10,177
+440,India,HDMI Cable,3,10,180
+441,India,Keyboard,5,50,134
+442,Canada,Laptop,1,1200,113
+443,Germany,HDMI Cable,2,10,119
+444,France,HDMI Cable,5,10,134
+445,France,Laptop,1,1200,126
+446,Germany,HDMI Cable,1,10,127
+447,France,Mouse,1,25,125
+448,France,Mouse,4,25,187
+449,Germany,Mouse,2,25,154
+450,UK,Laptop,2,1200,181
+451,USA,Keyboard,2,50,130
+452,UK,Mouse,2,25,125
+453,Germany,Mouse,3,25,151
+454,India,HDMI Cable,1,10,172
+455,India,HDMI Cable,1,10,174
+456,India,Monitor,4,300,141
+457,USA,Laptop,4,1200,143
+458,Germany,Laptop,2,1200,176
+459,France,Monitor,4,300,110
+460,France,Laptop,3,1200,104
+461,Germany,Keyboard,4,50,171
+462,USA,HDMI Cable,2,10,184
+463,USA,Laptop,1,1200,151
+464,UK,Laptop,2,1200,176
+465,India,Laptop,2,1200,101
+466,USA,Mouse,3,25,130
+467,UK,Mouse,5,25,162
+468,UK,Mouse,3,25,104
+469,Germany,Keyboard,1,50,158
+470,UK,Mouse,3,25,189
+471,UK,Mouse,4,25,144
+472,India,Mouse,3,25,171
+473,France,Monitor,5,300,156
+474,UK,Mouse,5,25,104
+475,Germany,Keyboard,3,50,152
+476,France,Laptop,3,1200,175
+477,UK,HDMI Cable,4,10,119
+478,India,HDMI Cable,5,10,195
+479,USA,HDMI Cable,3,10,198
+480,USA,Laptop,2,1200,183
+481,USA,Mouse,5,25,135
+482,UK,HDMI Cable,1,10,167
+483,UK,Monitor,5,300,174
+484,UK,Monitor,5,300,169
+485,France,Laptop,2,1200,177
+486,India,Mouse,1,25,121
+487,Germany,HDMI Cable,4,10,186
+488,UK,Keyboard,3,50,173
+489,Canada,Monitor,2,300,149
+490,France,Monitor,4,300,122
+491,France,Keyboard,4,50,165
+492,UK,Keyboard,3,50,166
+493,USA,Mouse,5,25,129
+494,USA,Mouse,2,25,113
+495,Canada,Mouse,5,25,176
+496,USA,Monitor,1,300,179
+497,UK,Keyboard,2,50,187
+498,UK,Keyboard,3,50,173
+499,India,Keyboard,5,50,127
+500,UK,HDMI Cable,1,10,129
+501,Germany,Monitor,5,300,102
+502,India,Laptop,3,1200,191
+503,Germany,HDMI Cable,2,10,128
+504,France,Laptop,2,1200,169
+505,Germany,Keyboard,2,50,135
+506,USA,Laptop,3,1200,171
+507,India,Mouse,4,25,153
+508,USA,Mouse,1,25,137
+509,Germany,Keyboard,4,50,198
+510,Canada,Laptop,1,1200,161
+511,France,Laptop,2,1200,167
+512,Germany,Mouse,3,25,169
+513,France,Keyboard,1,50,123
+514,UK,Mouse,3,25,131
+515,India,Laptop,1,1200,132
+516,Canada,Keyboard,4,50,115
+517,France,Keyboard,4,50,102
+518,UK,Laptop,4,1200,179
+519,USA,Monitor,3,300,138
+520,India,Monitor,5,300,170
+521,USA,Monitor,5,300,164
+522,Canada,Monitor,4,300,112
+523,USA,HDMI Cable,1,10,133
+524,UK,Monitor,5,300,109
+525,UK,Mouse,3,25,141
+526,USA,Mouse,4,25,113
+527,UK,Laptop,3,1200,174
+528,India,Laptop,4,1200,114
+529,Germany,Monitor,2,300,108
+530,USA,Laptop,2,1200,170
+531,Germany,Keyboard,3,50,170
+532,France,Monitor,5,300,163
+533,India,HDMI Cable,4,10,103
+534,UK,HDMI Cable,1,10,122
+535,USA,Monitor,2,300,108
+536,USA,Mouse,4,25,158
+537,Canada,Monitor,2,300,112
+538,Germany,Keyboard,5,50,166
+539,France,Laptop,4,1200,112
+540,USA,Monitor,1,300,194
+541,USA,HDMI Cable,5,10,108
+542,UK,Monitor,2,300,199
+543,UK,Keyboard,5,50,180
+544,USA,Keyboard,3,50,118
+545,Canada,HDMI Cable,3,10,143
+546,UK,HDMI Cable,2,10,182
+547,India,Keyboard,4,50,196
+548,India,HDMI Cable,5,10,192
+549,USA,Laptop,5,1200,154
+550,France,Monitor,2,300,116
+551,UK,HDMI Cable,5,10,172
+552,Germany,Keyboard,1,50,174
+553,Germany,Monitor,4,300,200
+554,India,Mouse,5,25,112
+555,India,Mouse,4,25,162
+556,Germany,HDMI Cable,1,10,153
+557,France,Monitor,2,300,121
+558,Canada,Keyboard,3,50,172
+559,UK,Mouse,3,25,125
+560,India,Mouse,2,25,179
+561,France,HDMI Cable,5,10,158
+562,France,Laptop,5,1200,111
+563,India,Monitor,3,300,122
+564,Canada,Mouse,5,25,126
+565,India,Monitor,2,300,150
+566,Canada,Mouse,2,25,198
+567,Canada,Keyboard,3,50,163
+568,India,Laptop,5,1200,135
+569,France,Mouse,3,25,179
+570,France,Keyboard,2,50,126
+571,India,Laptop,4,1200,196
+572,Germany,Laptop,2,1200,161
+573,Canada,Mouse,2,25,198
+574,Germany,Keyboard,1,50,182
+575,USA,Monitor,5,300,125
+576,USA,Laptop,1,1200,134
+577,India,Mouse,1,25,104
+578,Germany,Monitor,3,300,104
+579,UK,Mouse,5,25,171
+580,France,HDMI Cable,4,10,137
+581,UK,Mouse,5,25,127
+582,UK,Keyboard,2,50,169
+583,USA,Monitor,2,300,101
+584,USA,Mouse,3,25,159
+585,France,Keyboard,1,50,188
+586,India,Keyboard,4,50,142
+587,UK,Keyboard,5,50,197
+588,India,Keyboard,2,50,158
+589,Canada,Mouse,5,25,184
+590,India,HDMI Cable,1,10,114
+591,USA,Mouse,4,25,119
+592,Germany,Monitor,4,300,104
+593,Canada,Laptop,5,1200,151
+594,France,Keyboard,2,50,119
+595,Germany,Laptop,2,1200,135
+596,Canada,HDMI Cable,3,10,183
+597,France,Keyboard,4,50,140
+598,USA,Mouse,2,25,129
+599,Germany,HDMI Cable,3,10,106
+600,India,Mouse,5,25,184
+601,USA,Mouse,2,25,199
+602,Germany,Mouse,2,25,163
+603,India,Laptop,5,1200,149
+604,Germany,Mouse,2,25,122
+605,France,Laptop,2,1200,194
+606,France,Keyboard,2,50,110
+607,UK,HDMI Cable,3,10,110
+608,UK,Mouse,1,25,142
+609,USA,Laptop,2,1200,125
+610,India,Monitor,1,300,106
+611,Germany,Keyboard,1,50,157
+612,UK,Laptop,1,1200,114
+613,France,Keyboard,3,50,107
+614,Canada,Laptop,2,1200,198
+615,France,HDMI Cable,1,10,156
+616,Germany,HDMI Cable,5,10,106
+617,Canada,Monitor,4,300,106
+618,France,Mouse,1,25,169
+619,USA,Monitor,1,300,149
+620,France,Monitor,4,300,104
+621,Canada,Laptop,1,1200,156
+622,India,Mouse,1,25,187
+623,UK,Mouse,4,25,119
+624,UK,Laptop,3,1200,189
+625,USA,Mouse,3,25,187
+626,Canada,Mouse,3,25,105
+627,France,Keyboard,3,50,143
+628,Canada,Monitor,5,300,131
+629,Canada,Mouse,4,25,175
+630,India,Mouse,3,25,124
+631,Germany,Monitor,3,300,127
+632,France,Mouse,3,25,189
+633,Canada,Keyboard,2,50,125
+634,India,Laptop,4,1200,109
+635,Canada,Keyboard,1,50,117
+636,India,HDMI Cable,3,10,120
+637,USA,Laptop,4,1200,106
+638,India,Mouse,2,25,129
+639,USA,Laptop,3,1200,166
+640,UK,HDMI Cable,2,10,103
+641,India,Laptop,3,1200,165
+642,India,Laptop,4,1200,122
+643,France,Keyboard,5,50,155
+644,UK,HDMI Cable,5,10,143
+645,UK,Monitor,1,300,160
+646,UK,Keyboard,3,50,180
+647,USA,Mouse,2,25,160
+648,Germany,Monitor,4,300,157
+649,USA,Mouse,4,25,186
+650,France,Keyboard,5,50,141
+651,India,Mouse,4,25,120
+652,Germany,Laptop,4,1200,111
+653,India,Monitor,2,300,177
+654,France,Keyboard,2,50,112
+655,Canada,Laptop,3,1200,130
+656,UK,Laptop,4,1200,183
+657,France,HDMI Cable,5,10,104
+658,USA,Laptop,1,1200,173
+659,France,Laptop,2,1200,178
+660,USA,Mouse,2,25,165
+661,USA,Keyboard,5,50,160
+662,Canada,Monitor,3,300,115
+663,USA,Laptop,4,1200,162
+664,Germany,Laptop,5,1200,174
+665,India,Mouse,2,25,121
+666,France,Keyboard,3,50,111
+667,USA,Mouse,3,25,179
+668,UK,HDMI Cable,1,10,132
+669,USA,Laptop,4,1200,133
+670,India,Mouse,5,25,142
+671,USA,HDMI Cable,5,10,100
+672,USA,Monitor,5,300,198
+673,Canada,Mouse,5,25,197
+674,India,Monitor,4,300,111
+675,USA,Mouse,2,25,156
+676,France,Monitor,2,300,149
+677,France,Keyboard,5,50,193
+678,Canada,Mouse,4,25,133
+679,Germany,Keyboard,1,50,179
+680,India,Monitor,1,300,165
+681,Canada,Monitor,5,300,147
+682,Canada,Keyboard,4,50,150
+683,India,HDMI Cable,5,10,183
+684,Germany,HDMI Cable,4,10,132
+685,Germany,HDMI Cable,4,10,114
+686,Germany,Keyboard,4,50,121
+687,India,Keyboard,2,50,154
+688,USA,HDMI Cable,5,10,149
+689,UK,Mouse,2,25,106
+690,Canada,Keyboard,2,50,143
+691,Canada,Keyboard,4,50,137
+692,India,Mouse,5,25,157
+693,France,Laptop,5,1200,160
+694,France,Laptop,4,1200,136
+695,India,Mouse,1,25,122
+696,USA,HDMI Cable,5,10,100
+697,Germany,Monitor,3,300,156
+698,Canada,Mouse,1,25,145
+699,France,Keyboard,1,50,194
+700,UK,Monitor,1,300,138
+701,UK,Laptop,2,1200,135
+702,UK,HDMI Cable,4,10,168
+703,France,Keyboard,4,50,142
+704,India,Keyboard,4,50,161
+705,Canada,HDMI Cable,2,10,142
+706,India,Laptop,2,1200,154
+707,India,Laptop,5,1200,152
+708,USA,Laptop,5,1200,172
+709,Germany,Keyboard,2,50,149
+710,UK,Keyboard,5,50,197
+711,Germany,Monitor,1,300,162
+712,USA,Keyboard,4,50,172
+713,Germany,HDMI Cable,5,10,184
+714,UK,Monitor,5,300,122
+715,USA,Keyboard,3,50,134
+716,France,Laptop,1,1200,120
+717,Canada,HDMI Cable,1,10,156
+718,India,Laptop,3,1200,168
+719,Germany,Monitor,2,300,130
+720,Canada,Mouse,2,25,141
+721,UK,Laptop,3,1200,165
+722,USA,Mouse,4,25,104
+723,UK,Laptop,2,1200,159
+724,India,Mouse,1,25,122
+725,France,Mouse,5,25,181
+726,France,Monitor,3,300,132
+727,Canada,Laptop,4,1200,177
+728,UK,Monitor,1,300,142
+729,France,Monitor,5,300,104
+730,India,Monitor,3,300,120
+731,USA,Keyboard,1,50,143
+732,India,Keyboard,4,50,185
+733,Germany,Laptop,3,1200,115
+734,USA,Laptop,2,1200,179
+735,France,Monitor,1,300,189
+736,India,Monitor,3,300,103
+737,France,HDMI Cable,3,10,111
+738,USA,Keyboard,2,50,116
+739,UK,HDMI Cable,3,10,169
+740,UK,Mouse,4,25,135
+741,India,Monitor,3,300,141
+742,France,Monitor,4,300,145
+743,Canada,Monitor,4,300,188
+744,UK,Keyboard,4,50,101
+745,Canada,Mouse,3,25,130
+746,UK,HDMI Cable,1,10,157
+747,France,Keyboard,1,50,170
+748,Germany,Laptop,2,1200,140
+749,Canada,Mouse,1,25,135
+750,UK,Laptop,5,1200,133
+751,Germany,Keyboard,2,50,172
+752,France,Monitor,3,300,120
+753,India,Laptop,5,1200,158
+754,India,HDMI Cable,5,10,165
+755,UK,Mouse,2,25,116
+756,Germany,Mouse,2,25,174
+757,UK,Mouse,5,25,164
+758,USA,Laptop,1,1200,145
+759,Germany,HDMI Cable,5,10,180
+760,Canada,Laptop,2,1200,161
+761,Canada,Laptop,5,1200,151
+762,Germany,Keyboard,5,50,185
+763,Canada,Monitor,1,300,146
+764,Canada,Mouse,2,25,195
+765,France,Keyboard,5,50,126
+766,Canada,HDMI Cable,3,10,119
+767,France,Mouse,2,25,163
+768,France,Monitor,3,300,163
+769,India,Keyboard,3,50,130
+770,Canada,Mouse,5,25,188
+771,France,Mouse,2,25,140
+772,UK,Laptop,3,1200,150
+773,Canada,Keyboard,4,50,165
+774,India,HDMI Cable,4,10,136
+775,Germany,HDMI Cable,4,10,155
+776,France,Laptop,1,1200,123
+777,Canada,HDMI Cable,3,10,113
+778,Germany,Mouse,2,25,146
+779,Germany,Mouse,3,25,127
+780,USA,HDMI Cable,3,10,127
+781,USA,Mouse,2,25,168
+782,France,Keyboard,5,50,135
+783,USA,HDMI Cable,2,10,146
+784,UK,Mouse,4,25,155
+785,France,Keyboard,4,50,123
+786,USA,HDMI Cable,5,10,162
+787,France,Laptop,1,1200,196
+788,UK,Keyboard,2,50,106
+789,India,Monitor,3,300,138
+790,India,Laptop,3,1200,189
+791,India,Monitor,5,300,140
+792,UK,Monitor,1,300,153
+793,Germany,Keyboard,1,50,167
+794,UK,Mouse,3,25,153
+795,UK,Monitor,1,300,192
+796,Canada,Keyboard,1,50,169
+797,UK,Laptop,4,1200,127
+798,Germany,HDMI Cable,4,10,190
+799,UK,HDMI Cable,2,10,124
+800,UK,HDMI Cable,4,10,156
+801,India,Mouse,3,25,140
+802,Canada,Laptop,3,1200,114
+803,Germany,HDMI Cable,1,10,200
+804,Germany,HDMI Cable,1,10,134
+805,UK,Keyboard,4,50,106
+806,France,Laptop,4,1200,122
+807,USA,Laptop,4,1200,182
+808,Germany,Mouse,2,25,126
+809,Canada,Monitor,5,300,142
+810,UK,HDMI Cable,3,10,180
+811,UK,Mouse,2,25,153
+812,USA,Keyboard,1,50,102
+813,UK,Mouse,3,25,138
+814,Canada,Keyboard,4,50,179
+815,India,Mouse,2,25,175
+816,India,Keyboard,4,50,151
+817,India,Laptop,1,1200,183
+818,UK,Laptop,3,1200,161
+819,India,Mouse,2,25,195
+820,UK,Keyboard,4,50,123
+821,UK,Mouse,5,25,174
+822,Germany,Keyboard,4,50,119
+823,Germany,Monitor,2,300,181
+824,USA,HDMI Cable,4,10,198
+825,France,Keyboard,3,50,131
+826,India,Monitor,3,300,166
+827,France,Monitor,4,300,119
+828,USA,HDMI Cable,4,10,189
+829,Germany,HDMI Cable,4,10,132
+830,UK,HDMI Cable,1,10,184
+831,France,Laptop,3,1200,167
+832,UK,Mouse,5,25,146
+833,India,HDMI Cable,5,10,134
+834,India,Laptop,2,1200,148
+835,UK,Laptop,3,1200,131
+836,India,Mouse,5,25,105
+837,India,Monitor,1,300,165
+838,India,Keyboard,2,50,155
+839,France,Keyboard,2,50,130
+840,UK,HDMI Cable,4,10,113
+841,France,Mouse,2,25,161
+842,India,Keyboard,2,50,170
+843,Germany,Monitor,3,300,111
+844,India,Keyboard,4,50,114
+845,India,Mouse,5,25,105
+846,France,Monitor,2,300,124
+847,Canada,Keyboard,4,50,193
+848,India,Monitor,1,300,185
+849,India,Mouse,1,25,146
+850,UK,Keyboard,3,50,158
+851,France,Monitor,3,300,139
+852,UK,HDMI Cable,5,10,108
+853,UK,Keyboard,2,50,149
+854,USA,Mouse,3,25,125
+855,Germany,Mouse,3,25,131
+856,India,Laptop,1,1200,140
+857,India,Keyboard,4,50,173
+858,UK,Keyboard,4,50,177
+859,USA,Monitor,2,300,192
+860,Canada,Laptop,1,1200,114
+861,UK,HDMI Cable,1,10,184
+862,Canada,Monitor,2,300,151
+863,France,HDMI Cable,5,10,167
+864,India,Mouse,2,25,110
+865,Canada,Monitor,1,300,132
+866,UK,Monitor,2,300,116
+867,France,Mouse,3,25,126
+868,UK,Monitor,4,300,180
+869,Canada,Laptop,1,1200,188
+870,Germany,Monitor,2,300,138
+871,UK,Mouse,4,25,145
+872,Germany,Keyboard,2,50,118
+873,Canada,Monitor,2,300,185
+874,UK,Monitor,2,300,157
+875,France,HDMI Cable,2,10,148
+876,France,Laptop,1,1200,152
+877,Canada,Keyboard,1,50,196
+878,India,HDMI Cable,1,10,161
+879,UK,Keyboard,3,50,160
+880,Germany,Monitor,3,300,176
+881,France,Mouse,2,25,109
+882,France,Mouse,5,25,171
+883,France,Mouse,3,25,162
+884,India,HDMI Cable,3,10,120
+885,UK,Monitor,4,300,161
+886,Canada,HDMI Cable,4,10,186
+887,UK,Keyboard,5,50,162
+888,India,Mouse,5,25,164
+889,UK,Laptop,5,1200,138
+890,UK,Monitor,5,300,130
+891,Canada,Keyboard,5,50,168
+892,France,Keyboard,3,50,199
+893,USA,Monitor,2,300,101
+894,France,Monitor,3,300,121
+895,France,Keyboard,5,50,145
+896,India,Mouse,5,25,113
+897,India,Monitor,3,300,118
+898,UK,Keyboard,2,50,147
+899,Germany,HDMI Cable,3,10,136
+900,Canada,HDMI Cable,4,10,132
+901,France,Laptop,4,1200,104
+902,USA,Laptop,5,1200,110
+903,India,Monitor,4,300,190
+904,USA,Keyboard,3,50,199
+905,France,Mouse,1,25,154
+906,France,Mouse,4,25,166
+907,UK,Mouse,2,25,145
+908,Germany,Mouse,4,25,146
+909,UK,Keyboard,2,50,158
+910,Canada,Mouse,2,25,141
+911,UK,Laptop,4,1200,156
+912,Canada,Keyboard,1,50,129
+913,UK,Monitor,4,300,189
+914,USA,Mouse,2,25,144
+915,USA,HDMI Cable,4,10,131
+916,India,Keyboard,2,50,150
+917,India,Keyboard,1,50,147
+918,Germany,Laptop,2,1200,189
+919,France,Monitor,3,300,110
+920,India,Monitor,3,300,170
+921,Canada,HDMI Cable,1,10,148
+922,France,Laptop,3,1200,103
+923,Canada,Laptop,1,1200,133
+924,UK,Keyboard,5,50,167
+925,India,Keyboard,5,50,149
+926,India,Keyboard,4,50,163
+927,Canada,Mouse,3,25,184
+928,USA,Laptop,2,1200,149
+929,Canada,Mouse,2,25,155
+930,Canada,HDMI Cable,3,10,198
+931,Canada,Monitor,2,300,132
+932,UK,Keyboard,3,50,157
+933,Germany,Monitor,4,300,197
+934,UK,Monitor,2,300,114
+935,India,Mouse,3,25,119
+936,Canada,Mouse,4,25,176
+937,Canada,Mouse,4,25,171
+938,UK,HDMI Cable,4,10,153
+939,UK,Monitor,1,300,107
+940,UK,Laptop,2,1200,137
+941,France,HDMI Cable,5,10,135
+942,Germany,Monitor,1,300,154
+943,Germany,Keyboard,2,50,152
+944,UK,Laptop,4,1200,174
+945,Canada,HDMI Cable,3,10,116
+946,India,Keyboard,2,50,114
+947,France,Mouse,3,25,102
+948,UK,Keyboard,2,50,200
+949,India,Mouse,1,25,112
+950,UK,Mouse,4,25,153
+951,France,Laptop,4,1200,129
+952,Canada,Keyboard,5,50,124
+953,Canada,Monitor,2,300,167
+954,UK,Monitor,2,300,151
+955,Germany,Monitor,5,300,141
+956,France,Keyboard,3,50,125
+957,India,Mouse,5,25,152
+958,India,Keyboard,2,50,181
+959,USA,Mouse,2,25,189
+960,France,Keyboard,4,50,162
+961,France,Keyboard,3,50,172
+962,UK,HDMI Cable,3,10,188
+963,India,Monitor,2,300,195
+964,UK,Monitor,5,300,173
+965,France,Mouse,1,25,151
+966,India,Mouse,4,25,157
+967,France,HDMI Cable,3,10,175
+968,Canada,Keyboard,5,50,145
+969,France,Keyboard,1,50,169
+970,USA,HDMI Cable,4,10,168
+971,USA,Mouse,4,25,187
+972,Canada,Keyboard,4,50,148
+973,Canada,Mouse,1,25,168
+974,France,HDMI Cable,4,10,178
+975,UK,Monitor,4,300,167
+976,UK,Laptop,1,1200,109
+977,France,Mouse,1,25,134
+978,France,Monitor,1,300,107
+979,UK,HDMI Cable,3,10,113
+980,Canada,HDMI Cable,5,10,164
+981,India,Monitor,4,300,138
+982,UK,Keyboard,2,50,102
+983,France,Laptop,2,1200,148
+984,UK,Monitor,1,300,144
+985,UK,Laptop,4,1200,132
+986,India,HDMI Cable,1,10,188
+987,India,HDMI Cable,3,10,119
+988,Canada,Keyboard,5,50,140
+989,USA,Mouse,1,25,132
+990,France,Mouse,3,25,106
+991,UK,Monitor,2,300,167
+992,Germany,Monitor,5,300,167
+993,UK,Laptop,1,1200,167
+994,France,HDMI Cable,4,10,105
+995,USA,HDMI Cable,3,10,114
+996,Germany,HDMI Cable,2,10,178
+997,France,Mouse,4,25,188
+998,UK,HDMI Cable,1,10,168
+999,India,Keyboard,5,50,137
+1000,India,Monitor,1,300,113
