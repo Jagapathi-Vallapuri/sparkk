@@ -25,6 +25,9 @@ def on_message(ws, message):
             'symbol': data.get('product_id'),
             'price': float(data.get('price')),
         }
+    
+    if not record:
+        raise ValueError("No data to send to Kafka")
 
     producer.send('crypto-stream', json.dumps(record).encode('utf-8'))
     
